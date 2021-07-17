@@ -42,3 +42,11 @@ nav ul li
 nav a:hover{
 	text-decoration: none;
 }	
+a:hover {
+	padding: 20px;
+}
+
+li{
+	display: block;
+	padding: 10px;
+}
